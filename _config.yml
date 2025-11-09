@@ -1,4 +1,7 @@
 # The Site Configuration
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Import the theme
 theme: jekyll-theme-chirpy
