@@ -3,6 +3,7 @@ title: "첫 번째 포스트"
 date: 2025-11-09 15:00:00 +0900
 categories: [Blog, Test]
 tags: [test, 첫포스트]
+published: false
 ---
 
 ## 안녕하세요!

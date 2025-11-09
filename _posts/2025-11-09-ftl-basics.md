@@ -3,6 +3,7 @@ title: "FTL 기초 - Flash Translation Layer란?"
 date: 2025-11-09 12:00:00 +0900
 categories: [FTL]
 tags: [플래시메모리, SSD, 스토리지]
+published: false
 ---
 
 ## FTL (Flash Translation Layer)

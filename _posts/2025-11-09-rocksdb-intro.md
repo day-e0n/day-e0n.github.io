@@ -3,6 +3,7 @@ title: "RocksDB 소개 - LSM Tree 기반 스토리지 엔진"
 date: 2025-11-09 11:00:00 +0900
 categories: [RocksDB]
 tags: [데이터베이스, LSM-Tree, Key-Value Store]
+published: false
 ---
 
 ## RocksDB란?
